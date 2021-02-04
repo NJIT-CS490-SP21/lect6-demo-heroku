@@ -2,6 +2,10 @@
 
 This demo explains how to take a Github repository and deploy it to the world!
 
+## Get this repository in your local Cloud9
+1. In terminal, clone the repo:`git clone https://github.com/NJIT-CS490-SP21/lect6-demo-heroku.git`
+2. `cd` into the repository and you should see all the files now.
+
 ## Sign up for New York Times Developer Account
 1. Follow the instructions here: https://developer.nytimes.com/get-started
 
