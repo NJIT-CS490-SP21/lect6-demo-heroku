@@ -3,8 +3,11 @@
 This demo explains how to take a Github repository and deploy it to the world!
 
 ## Get this repository in your local Cloud9
-1. In terminal, clone the repo:`git clone https://github.com/NJIT-CS490-SP21/lect6-demo-heroku.git`
-2. `cd` into the repository and you should see all the files now.
+1. On https://github.com/new, create a new repository (personal, not owned by org) called `lect6`
+2. In terminal, clone the repo:`git clone https://github.com/NJIT-CS490-SP21/lect6-demo-heroku.git`
+3. `cd` into the repository and you should see all the files now.
+4. Then, connect this repo to your personal repo from Step 1: `git remote set-url origin https://www.github.com/[your-username]/lect6` (be sure to change your username)
+5. Run `git push origin main` to push the local repo to remote.
 
 ## Sign up for New York Times Developer Account
 1. Follow the instructions here: https://developer.nytimes.com/get-started
