@@ -32,4 +32,4 @@ This demo explains how to take a Github repository and deploy it to the world!
 6. Push your code to Heroku: `git push heroku main`
 7. Open your app on the INTERNET (it won't work yet): `heroku open`
 8. Go to https://dashboard.heroku.com/apps and click your App, then go to Settings, and click "Reveal Config Vars"
-10. Add your secret key from `.env` with the matching variable name (`NYT_KEY`) and value (your key)
+10. Add your secret key from `.env` with the matching variable name (`NYT_KEY`) and value (your key, without quotation marks!)
