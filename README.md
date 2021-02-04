@@ -2,7 +2,7 @@
 
 This demo explains how to take a Github repository and deploy it to the world!
 
-## Get this repository in your local Cloud9
+## Copy this repo to your own personal one
 1. On https://github.com/new, create a new repository (personal, not owned by org) called `lect6`
 2. In terminal, clone the repo:`git clone https://github.com/NJIT-CS490-SP21/lect6-demo-heroku.git`
 3. `cd` into the repository and you should see all the files now.
