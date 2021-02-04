@@ -30,7 +30,7 @@ This demo explains how to take a Github repository and deploy it to the world!
 2. Create a free account on Heroku https://signup.heroku.com/login
 3. Create a `requirements.txt` file with all your dependencies: `pip freeze > requirements.txt`
 4. Create a `Procfile` with the command needed to run your app: https://devcenter.heroku.com/articles/getting-started-with-python#define-a-procfile
-5. Add + commit the files from Step 3 and 4 with git
+5. Add + commit all changed files with git
 5. Create a Heroku app: `heroku create`
 6. Push your code to Heroku: `git push heroku main`
 7. Open your app on the INTERNET (it won't work yet): `heroku open`
