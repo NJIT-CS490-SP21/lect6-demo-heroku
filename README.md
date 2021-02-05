@@ -19,7 +19,7 @@ This demo explains how to take a Github repository and deploy it to the world!
 
 ## Setup
 1. Create `.env` file in your project directory
-2. Add your NYT key from https://developer.nytimes.com/my-apps with the line: `export NYT_KEY='YOUR_KEY'`
+2. Add your NYT KEY (not Secret!) from https://developer.nytimes.com/my-apps with the line: `export NYT_KEY='YOUR_KEY'`
 3. In `app.py`, change Line 13 to a topic you want to get news about!
 
 ## Run Application
